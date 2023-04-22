@@ -1,0 +1,38 @@
+*{
+    align-content: center;
+}
+.navigationBar{
+    padding-top: 3% ;
+    padding-bottom: 3% ;
+    background-color: rgb(134, 209, 209);
+    border-top: 4px solid black;
+    border-bottom: 2px solid rgb(75, 74, 74);
+}
+a{
+    background-color: rgb(134, 209, 209);
+    margin-left: 10%;
+    font-size: 24px;
+}
+.mov{
+    background-color: rgb(227, 225, 225);
+    margin-left: 20%;
+    margin-right: 7%;
+    border: 3px solid red;
+    border-radius: 7%;
+    height: 320px;
+    width: 890px;
+    white-space:break-spaces;
+    overflow:scroll;
+}
+h3{
+    font-size: x-large;
+    position:relative;    
+    bottom:300px;
+    left:35%;
+    color: red;
+}
+p{
+    position:relative;    
+    bottom:350px;
+    left:35%;
+}
